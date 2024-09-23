@@ -1,2 +1,0 @@
-# ClinicWise
-Proyecto de DPWEB.
